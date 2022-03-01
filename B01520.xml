@@ -1,0 +1,132 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Battering rams against Rome's gates, made to be the remark of her character, whom her children and once subjects now begin to hate.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01520</idno>
+            <idno type="OCLC"> 15554829</idno>
+            <idno type="STC">Wing B1156</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.161.f.2[95]</idno>
+            <idno type="STC">ESTC R35743</idno>
+            <idno type="EEBO-CITATION">99890051</idno>
+            <idno type="PROQUEST">ocm99890051</idno>
+            <idno type="VID">182482</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01520)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182482)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A3:5[97])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Battering rams against Rome's gates, made to be the remark of her character, whom her children and once subjects now begin to hate.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="tract">
+            <pb n="1" facs="tcp:182482:1" rendition="simple:additions"/>
+            <head>Battering Rams Againſt ROME'S GATES, Made to be The Remark of her CHARACTER, Whom her Children and once Subjects now begin to hate.</head>
+            <p n="1">I. WHo is it that continues unprepared (unto the Battle of the Lamb) in this great Day of Slaughter (under which many are brought down into the Valley of <hi>Megiddon</hi>) but ſuch, unto whom the Trumpet gives an uncertain Sound? Who being partakers of and with the Whore of <hi>Rome</hi> (in her Evils and wicked Abomi<g ref="char:EOLhyphen"/>nations) muſt look alſo now to be made partakers (with her) in the Plagues and Torments come upon her (in a Day and Hour unlooked for,) Widow<g ref="char:EOLhyphen"/>hood and loſs of Children; for the Grave and Hell cries, <hi>Give, give; What now ſhall be given her?</hi> but a miſcarrying Womb and dry Breaſts.</p>
+            <p n="2">II. This ſtate of her (the Whore of <hi>Rome</hi> and Mother of all our Sorrows) is that under which ſhe is reputed fallen, and in which ſhe is now made and become more con<g ref="char:EOLhyphen"/>temptible than that (of the ſtate of Widowhood itſelf) relating to the ſhame of her Youth and reproach of her Widow-hood, which ſhall never more be wiped away and blotted out (of our Remembrance) wherein it ſtands thus repreſented, as doth her Guilt the Cauſe thereof, (in a freſh charge againſt her:) Whom call no more <hi>Lady of Pleaſure</hi> (as though ſhe were never to ſee Widowhood) and <hi>Queen over Nations,</hi> that hath ſate at eaſe in the fleſh, and ſung <hi>Arakime</hi> to your Souls (<hi>Soul, Soul, take thy eaſe,</hi> &amp;c. <hi>for thou haſt riches laid up for many years;</hi>) alas, in one hour (as was multiplied her Miſcarriages and Miſdeeds, ſo in like manner) is multiplied, complicated and filled up the meaſure of her Iniquity; conſequent unto which all her Sorrows and Miſeries increaſed, are now come upon her (both Widowhood and loſs of Children.)</p>
+            <p n="3">III. Her Character (as a City pourtray'd with Walls and Gates, and the Fabrick of whoſe Foundations was firſt erected and ſettled on ſeven high Hills, or Mountains) is ſo lively deſcribed, that obſerving this third Advice to the Painter (of ſuch things and matters requiſite in ſo great undertakings,) there needs no other Interpretation of the Myſtery included, than the life of the Patron conſider'd, and thus remark'd (with Obſervations on the Parallel between a bad vile Woman, and ſuch is the Whore of <hi>Rome;</hi>) wherein under any Self-ſecurity (or carnal Eaſe and Pleaſure promiſs'd to the fleſh,) the cauſe of a Nations Ruine and Miſery, lies at ſtake; of which the Reader is thus fairly warn'd</p>
+            <p n="4">IV. Is ſhe a City wall'd? Tell her Towers, taiſe your Batteries, and let all that have skill in Martial Diſcipline, now play their Engines of War againſt her, ſcale her Walls, throw down her Bulworks and Fortreſſes, and cauſe to fall to the ground all her Towers of Defence, (ſo ſhall you quit your ſelves like men;) Let not your Eyes ſpare, nor Hearts pity; but as ſhe hath done unto you, into her boſome reward it double: Do unto her, according as ſhe hath and would have done, who hath drunk of your Blood, until ſhe is again made to vomit it up: Give her to drink of her own Vomit, (the dregs of her bitter Cup.)</p>
+            <pb n="2" facs="tcp:182482:2"/>
+            <p n="5">V. Yet the Weapons of our Warfare are not carnal but ſpiritual, and mighty (through the Power of God) to the pulling down of Satan's ſtrong Holds; againſt whom we wreſtle, and not only with fleſh and blood, but Principalities and Powers <hi>(Spiritual Wickedneſs in high places:)</hi> Remember therefore <hi>Jericho</hi> of old, about whoſe City<g ref="char:EOLhyphen"/>walls went (her Enemies) ſeven times round, (touting with Rams-horns) until they fell, and great was the fall thereof (to the laying open her Gates, by which enter'd all the Miſeries, Evils and Miſchiefs, now thus come upon her.) Like one on whoſe Neck is tyed a great Milſtone, and then caſt down (in the Sea of the bottomleſs Pit, a Gulf of Miſery whence ſhe never again is to riſe; for ſhe is fallen, ſhe is fallen under irrecoverable Loſs, Ruine, and Deſtruction.</p>
+            <p n="6">VI. The exalted Power of the Lamb, a ſpecies of that Ram caught (by the horns) in the Thicket, where for <hi>Abraham</hi> he was made a Sacrifice (inſtead of <hi>Iſaac;</hi>) and by whoſe Horns (of Power) Batteries have been rais'd and made at and againſt the Walls of Myſtery <hi>Babylon</hi> (the Mother of Harlots and all Abominations, <hi>&amp;c.</hi>) Theſe like unto ſeven Trumpets, that have ſounded forth the Myſtery of things written in the Book of the Life of the Lamb, with ſeven Horns full of Eyes, upon whom was put ſeven Scals; namely the Myſtery of ſeven Plagues and Vials fill'd with the wrath of ſuch the Lamb (ready to be powred forth upon the Earth and its Inhabitants.) Theſe, we ſay, have been and are exalted, above and over the rage and ſury of the Beaſt with ſeven Heads and ten Horns, upon whom rides and is exalted ſuch the Where of <hi>Rome,</hi> Myſtery <hi>Babylon.</hi>
+            </p>
+            <p n="7">VII. Theſe are the Cauſes and Reaſons, that as many of her Children and Lovers do already begin to hate her, ſo others her Children alſo ſhall hate both their Father (the Beaſt that begot them) and Whore their Mother, that brought them forth (under ſuch the pale of Mother-Church;) who (ſuch their <hi>FATHER</hi> ſhall thruſt throw with a Dart, and burn their Mothers Fleſh with Fire <hi>unquenchable.</hi> Give her a Cup brim<g ref="char:EOLhyphen"/>full, for her Pleaſure hath been and is the Cauſe of all her and your Pain, Sorrow and Miſery, thus come upon, and that hath overtaken you (her Children,) and her (your Mother;) of which (as you her Children are made and become ſenſible of the Cauſe of ſuch Pain and Grief) ſhall return and reſt upon her, as occaſioned by her Witch<g ref="char:EOLhyphen"/>craſts and Sorceries.</p>
+            <p n="8">VIII. It is the Fraudulency and Guile of their Mother, that ſtands figur'd forth in her, who was firſt betray'd (by the old Serpent,) which encourageth theſe her Children (in their boldneſs and confidence) to follow her guileful ſteps, and by-ways of Fallacy, Treachery, and all abominable Deceit: So that no wonder it is (their Fathers having eaten ſowr grapes) that the Childrens Teeth are ſet on edge; and that all Filthineſs (ſticking in and upon her skirts) hath and doth flow, grow, and reign in and over ſuch a Generation of evil Doers, from whom we are commanded to fly and be made ſeparate; not ſo much as to touch or partake with her (in their unholy things;) whoſe Portion (that was thus firſt beguiled and beguileth) is <hi>WRATH,</hi> even the wrath of the Lamb: From whence, you to avoid (who are found flying, labouring, and ſeeking to make your eſcape to the Rocks and Mountains, that they may thence hide and cover you) ſhall not, nor cannot ſo do, but by reflecting on the Cauſe (in your ſelves, and that firſt leaving or eſcaping there.)</p>
+            <p n="9">IX. Wrath is the Mother of us all (of whom we by Nature, as well as others are born Children and Heirs;) the Myſtery of which hereditary Paſſion (under which we are thus brought forth) is the Effect of Cauſes productive unto the Creatures firſt Fail from God, under ſuch Ruine and inevitable Deſtruction, that purſues Mankinde's imaginary Ways and Inventions, working and wrought up (or brought forth) fruits of Myſtery <hi>Babylon,</hi> or <hi>Hagar,</hi> that is in Bondage (with her Seed or Children) to theſe the beggarly Rudiments of <hi>Romes</hi> formal ways of Worſhip and Service towards God, under which all Murthers, Rapes, and Villanies are countenanced, as the Sodomy of that City (ſpititually called <hi>Sodome</hi> and <hi>Egypt.</hi>)</p>
+            <p>
+               <hi>The Character of this the Whore of</hi> Rome, <hi>or bad Woman; by whom the parallel is made (according to the Pattern drawn and ſet before you) between her the Mother and Myſtery of Iniquity, and her Brood, Children of the ſame.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
